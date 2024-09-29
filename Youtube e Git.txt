@@ -1,0 +1,8 @@
+Link da apresentação em vídeo: https://youtu.be/GSXhchwr8rU
+
+Link do repositório git contendo toda a documentação e entregas do Challenge: https://github.com/vmventuraa/CHALLENGE-EURO
+NOTA: O código fonte não está presente pois a solução está em low-code, não permitindo versionamento por meio do GitHub. 
+Detalhes sobre o desenvolvimento estão presentes na apresentação.
+
+
+
